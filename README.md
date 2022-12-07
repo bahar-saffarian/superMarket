@@ -14,8 +14,8 @@ http://localhost:8080/swagger-ui/index.html#/shop-product-controller
 ## H2 DB
 Database is accessible via:
 
-JDBC URL: jdbc:h2:mem:testdb
-User Name: sa
+JDBC URL: jdbc:h2:mem:testdb <br/>
+UserName: sa <br/>
 Password: password
 ```
 http://localhost:8080/h2-console
